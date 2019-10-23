@@ -1,0 +1,8 @@
+4 new pages with 4 new styles
+
+title - just a container
+
+flexbox that has the items inside. for each row i am making another div. so for the workout screen I am making one big div to hold all my other 8 div's for the icons
+
+flexbox that contains everything that has my background. inside that is many other boxes. if i don't know what to do wrap it around a div
+
